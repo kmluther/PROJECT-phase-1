@@ -1,0 +1,113 @@
+{
+"vodkaDrinks": [
+    {
+      "strDrink": "155 Belmont",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg",
+      "idDrink": "15346",
+      "strInstructions": "Blend with ice. Serve in a wine glass. Garnish with carrot.",
+      "strIngredients": "1 shot Dark rum, 2 light rum, 1 shot vodka, 1 shot orange juice"
+    },
+    {
+      "strDrink": "501 Blue",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ywxwqs1461867097.jpg",
+      "idDrink": "17105",
+      "strInstructions": "Mix equal amounts into a glass with ice.",
+      "strIngredients": "Blue Curacao, Blueberry schnapps, vodka, sour mix, 7-Up"
+    },
+    {
+      "strDrink": "57 Chevy with a White License Plate",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg",
+      "idDrink": "14029",
+      "strInstructions": "1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir",
+      "strIngredients": "1 oz white Creme de Cacao, 1 oz vodka"
+    },
+    {
+      "strDrink": "747 Drink",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg",
+      "idDrink": "178318",
+      "strInstructions": "pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!",
+      "strIngredients": "1/3 part Kahlua, 1/3 part Baileys Irish Cream, 1/3 part Frangelico"
+    },
+    {
+      "strDrink": "A Gilligan's Island",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg",
+      "idDrink": "16943",
+      "strInstructions": "Shaken, not stirred!",
+      "strIngredients": "1 oz Vodka, 1 oz Peach Schnapps, 3 oz orange jucie, 3 oz cranberry juice"
+    }
+  ],
+"tequilaDrinks": [
+    {
+        "strDrink": "110 in the shade",
+        "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/xxyywq1454511117.jpg",
+        "idDrink": "15423",
+        "strInstructions": "Drop shooter in glass. Fill with beer",
+        "strIngredients": "16 oz Lager, 1.5 oz Tequila"
+      },
+      {
+        "strDrink": "3-Mile Long Island Iced Tea",
+        "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg",
+        "idDrink": "15300",
+        "strInstructions": "Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet & sour. Top with dash of bitters and lemon wedge.",
+        "strIngredients": "1/2 oz gin, 1/2 oz light rum, 1/2 oz tequila, 1/2 oz triple sec, 1/2 oz vodka, 1/2 oz coca-cole, 1-2 dash sweet and sour, 1 wedge Lemon, Garnish with bitters"
+      },
+      {
+        "strDrink": "Adam Bomb",
+        "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/tpxurs1454513016.jpg",
+        "idDrink": "16333",
+        "strInstructions": "Add ice to blender (or to glass if prefer on the rocks) then fruit, and fruite juice depending on personal prefference then add the Rum, Vodka, Tequila, and triple sec. blend till smooth, rim glass with sugar or salt and pour mixture in. garnish with lemon or lime slice.",
+        "strIngredients": "1 part Rum, 1 part Vodka, 1 part Tequila, 1/2 part Triple sec, fruit, ice, salt, 1-3 pint fruit juice"
+      },
+      {
+        "strDrink": "Amaretto Stone Sour Alternative",
+        "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg",
+        "idDrink": "16100",
+        "strInstructions": "Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.",
+        "strIngredients": "2 oz sour mix, 2 oz Amaretto, 2 oz Tequila, Add splash orange juice"
+      },
+      {
+        "strDrink": "Bloody Maria",
+        "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yz0j6z1504389461.jpg",
+        "idDrink": "11112",
+        "strInstructions": "Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.",
+        "strIngredients": "1 oz Tequila, 2 oz Tomato Juice, 1 dash Lemon juice, 1 dash tabasco sauce, 1 dash celery salt, 1 slice lemon"
+      }
+    ],
+    "ginDrinks": [
+        {
+          "strDrink": "3-Mile Long Island Iced Tea",
+          "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg",
+          "idDrink": "15300",
+          "strInstructions": "Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet & sour. Top with dash of bitters and lemon wedge.",
+          "strIngredients": "1/2 oz gin, 1/2 oz light rum, 1/2 oz tequila, 1/2 oz triple sec, 1/2 oz vodka, 1/2 oz coca-cole, 1-2 dash sweet and sour, 1 wedge Lemon, Garnish with bitters"
+        },
+        {
+          "strDrink": "69 Special",
+          "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/vqyxqx1472669095.jpg",
+          "idDrink": "13940",
+          "strInstructions": "Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.",
+          "strIngredients": "2 oz dry Gin, 4 oz 7-Up, 0.75 oz Lemon juice"
+        },
+        {
+          "strDrink": "A1",
+          "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg",
+          "idDrink": "17222",
+          "strInstructions": "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.",
+          "strIngredients": "1 3/4 shot Gin, 1 shot Grand Marnier, 1/4 shot lemon juice, 1/8 shot grenadine"
+        },
+        {
+          "strDrink": "Abbey Cocktail",
+          "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/mr30ob1582479875.jpg",
+          "idDrink": "17834",
+          "strInstructions": "Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.",
+          "strIngredients": "1 1/2 oz Gin, 1 dash orange bitters, juice of 1/4 orange, 1 cherry"
+        },
+        {
+          "strDrink": "Abbey Martini",
+          "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg",
+          "idDrink": "17223",
+          "strInstructions": "Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.",
+          "strIngredients": "2 shots Gin, 1 shot sweet vermouth, 1 shot orange juice, 3 dashes Angostura Bitters"
+        }
+      ]
+}
